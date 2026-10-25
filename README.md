@@ -66,5 +66,5 @@ I believe the best way to grow as a developer is to experiment, solve real probl
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itscodervin/itscodervin/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+  <img src="https://raw.githubusercontent.com/itscodervin/itscodervin/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
