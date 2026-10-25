@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./itscodervin-banner.png" width="100%" alt="itscodervin — BSE pixel art banner">
-</p>
+  <img src="./Neon%20Code%20Above%20Mumbai%E2%80%99s%20BSE.png" width="100%" alt="itscodervin — BSE pixel art banner">
 
 # Hey, I'm Vinay 👋
 
