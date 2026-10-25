@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=600&lines=Independent+Developer;Building+AI-powered+software;Exploring+Python+%26+Local+AI;Learning+by+building+%F0%9F%9A%80" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=900&color=B08D57&center=true&vCenter=true&width=600&lines=Building+AI-powered+software;Exploring+Financial+Intelligence;Markets+%C3%97+Technology+%C3%97+AI;Learning.+Building.+Evolving." alt="Introduction" />
 </p>
+
 
 <p align="center">
   <b>Independent Developer · AI Enthusiast · Open-Source Builder</b>
