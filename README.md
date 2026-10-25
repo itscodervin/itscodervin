@@ -43,8 +43,9 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itscodervin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodervin&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itscodervin&show_icons=true&theme=default&hide_border=true&title_color=876B3C&icon_color=876B3C&text_color=292824&bg_color=FFFDF7" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodervin&layout=compact&theme=default&hide_border=true&title_color=876B3C&text_color=292824&bg_color=FFFDF7" alt="Most-used repository languages" />
+
 </p>
 
 ## 🚀 Featured Projects
