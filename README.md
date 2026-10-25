@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./Neon%20Code%20Above%20Mumbai%E2%80%99s%20BSE.png" width="100%" alt="itscodervin — BSE pixel art banner">
+</p>
 
 # Hey, I'm Vinay 👋
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=600&lines=Independent+Developer;Building+AI-powered+software;Exploring+Python+%26+Local+AI;Learning+by+building+%F0%9F%9A%80" alt="Animated introduction" />
@@ -64,10 +66,12 @@ I believe the best way to grow as a developer is to experiment, solve real probl
 
 
 
+
 ---
 
 ## 🐍 My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itscodervin/itscodervin/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
