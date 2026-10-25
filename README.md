@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="./vinay-finance-tech-tower.png" width="100%" alt="Vinay's Finance Intelligence Tower overlooking Mumbai" />
+</p>
+
+
+
+<p align="center">
   <img src="./Neon%20Code%20Above%20Mumbai%E2%80%99s%20BSE.png" width="100%" alt="itscodervin — BSE pixel art banner">
 </p>
 
