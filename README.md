@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./itscodervin-banner.png" width="100%" alt="itscodervin — BSE pixel art banner">
+</p>
+
 # Hey, I'm Vinay 👋
 
 <p align="center">
