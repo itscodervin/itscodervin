@@ -46,6 +46,21 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodervin&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
 </p>
 
+## 🚀 Featured Projects
+
+### 📈 ASTRAQUANT — AI-Powered Global Market Intelligence
+
+Building an intelligent market research platform focused on market data, company analysis, news relevance, and AI-assisted research.
+
+- 🧠 Multi-agent intelligence architecture
+- 📊 Market analysis and company research
+- 📰 Market-relevant news intelligence
+- 🤖 Local AI experimentation with Ollama
+- 🛠️ Built with Python and an evolving open-source stack
+
+*Currently in development.*
+
+
 ## 🎯 My Philosophy
 
 > Learn continuously. Build thoughtfully. Share what you learn.
