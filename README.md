@@ -58,3 +58,13 @@ I believe the best way to grow as a developer is to experiment, solve real probl
 <p align="center">
   <i>Building the future, one commit at a time. 🚀</i>
 </p>
+
+
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itscodervin/itscodervin/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
